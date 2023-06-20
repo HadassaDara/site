@@ -18,11 +18,10 @@ header:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
-    level: Native
-  - idiom: French
+  - idiom: Portuês
+    level: Nativo
     level: Professional
-  - idiom: Spanish
+  - idiom: Portuês
     level: Professional
 
 interests:
