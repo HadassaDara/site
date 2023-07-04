@@ -33,12 +33,7 @@ interests:
     link:
 
 summary: |
-  Summarise your career here. You can make a PDF version of your resume using our free Sketch template here.
-  Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-  Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-  Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
+  conclui o Ensino Médio na Escola Estadual em Tempo Integral Aida Ramalho Cortez Pereira no ano de 2022, e estou cursando o técnico Subsequente de Informática no IFRN campus/Mo.
 
 education:
   - degree: MSc in Computer Science
@@ -86,12 +81,9 @@ experiences:
         - Blanditiis praesentium voluptatum deleniti atque corrupti.
         - Maecenas tempus tellus eget.
     technologies:
-      - Angular
       - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
+      - HTML/CSS
+      
 
   - role: Senior Software Developer
     time: 2014 - 2018
